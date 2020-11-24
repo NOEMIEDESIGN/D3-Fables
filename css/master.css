@@ -1,0 +1,52 @@
+p{
+color: white;
+text-align: center;
+
+}
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+a{
+  color: white;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+
+}
+
+
+P.blocktext{
+  margin-left:auto;
+  margin-right:auto;
+  width: 18em;
+}
+h1{
+  color: white;
+  text-align: center;
+
+}
+
+h2{
+  color: white;
+  text-align: center;
+
+
+}
+body{
+
+  background-color: gray;
+
+
+}
+nav ul{
+  display: flex;
+  justify-content: space-around;
+  padding-top: 1px;
+  padding-bottom: 1px;
+
+}
